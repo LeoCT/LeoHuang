@@ -1,3 +1,3 @@
-%%( font-size: 150%; color: red; )
+%%( font-size: 150%; color: RED; )
 Hello, world!
 %%

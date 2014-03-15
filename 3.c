@@ -1,1 +1,3 @@
-nisodfdos
+#include<stdio.h>
+
+int main()
